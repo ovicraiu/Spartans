@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1532259672 source:c:\perso\firma\scoala informala\proiecte\prieteniiclaselor\main.cpp
+	<iostream>
+	"Secret.h"
+	"CautSecret.h"
+	"ClasaCuPile.h"
+
+1532258314 source:c:\perso\firma\scoala informala\proiecte\prieteniiclaselor\src\secret.cpp
+	"Secret.h"
+	<iostream>
+
+1532260783 c:\perso\firma\scoala informala\proiecte\prieteniiclaselor\include\secret.h
+	"CautSecret.h"
+
+1532260517 source:c:\perso\firma\scoala informala\proiecte\prieteniiclaselor\src\cautsecret.cpp
+	"Secret.h"
+	"CautSecret.h"
+	<iostream>
+
+1532260679 c:\perso\firma\scoala informala\proiecte\prieteniiclaselor\include\cautsecret.h
+
+1532260857 source:c:\perso\firma\scoala informala\proiecte\prieteniiclaselor\src\clasacupile.cpp
+	"ClasaCuPile.h"
+	<iostream>
+
+1532260857 c:\perso\firma\scoala informala\proiecte\prieteniiclaselor\include\clasacupile.h
+	"Secret.h"
+
+1536696750 source:c:\perso\firma\scoala informala\proiecte\z_helpers\prieteniiclaselor\main.cpp
+	<iostream>
+	"Secret.h"
+	"CautSecret.h"
+	"ClasaCuPile.h"
+
+1532257183 c:\perso\firma\scoala informala\proiecte\z_helpers\prieteniiclaselor\include\secret.h
+	"CautSecret.h"
+
+1532257079 c:\perso\firma\scoala informala\proiecte\z_helpers\prieteniiclaselor\include\cautsecret.h
+
+1532257257 c:\perso\firma\scoala informala\proiecte\z_helpers\prieteniiclaselor\include\clasacupile.h
+	"Secret.h"
+
+1532256917 source:c:\perso\firma\scoala informala\proiecte\z_helpers\prieteniiclaselor\src\cautsecret.cpp
+	"Secret.h"
+	"CautSecret.h"
+	<iostream>
+
+1532257257 source:c:\perso\firma\scoala informala\proiecte\z_helpers\prieteniiclaselor\src\clasacupile.cpp
+	"ClasaCuPile.h"
+	<iostream>
+
+1532254714 source:c:\perso\firma\scoala informala\proiecte\z_helpers\prieteniiclaselor\src\secret.cpp
+	"Secret.h"
+	<iostream>
+
