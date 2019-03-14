@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552166199 source:d:\codeblocks\temascoinfminicalculator\main.cpp
+	<iostream>
+	"Operatii.h"
+
+1552165628 source:d:\codeblocks\temascoinfminicalculator\operatii.cpp
+	"Operatii.h"
+
+1552165433 d:\codeblocks\temascoinfminicalculator\operatii.h
+
