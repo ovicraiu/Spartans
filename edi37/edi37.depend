@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552415045 source:c:\users\izabela\desktop\scoala informala de it\c++\edi37\src\masina.cpp
+	"Masina.h"
+
+1552414581 c:\users\izabela\desktop\scoala informala de it\c++\edi37\include\masina.h
+
+1552414848 source:c:\users\izabela\desktop\scoala informala de it\c++\edi37\main.cpp
+	<iostream>
+	"Masina.h"
+

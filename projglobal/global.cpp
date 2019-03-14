@@ -1,0 +1,1 @@
+int vglobala=200;
