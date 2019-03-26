@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1553622995 source:d:\codeblocks\0503scoalainformala\main.cpp
+	<iostream>
+	"Segment.h"
+	"Triunghi.h"
+
+1553623010 source:d:\codeblocks\0503scoalainformala\src\segment.cpp
+	"Segment.h"
+	<cmath>
+
+1553622995 d:\codeblocks\0503scoalainformala\include\segment.h
+
+1551982868 source:d:\codeblocks\0503scoalainformala\src\triunghi.cpp
+	"Triunghi.h"
+	"Segment.h"
+
+1551980866 d:\codeblocks\0503scoalainformala\include\triunghi.h
+	"Segment.h"
+
