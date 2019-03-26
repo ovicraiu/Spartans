@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1551813364 source:c:\users\clau&florin\desktop\florinel\5martie 2019\main.cpp
+	<iostream>
+	"Segment.h"
+
+1551811501 source:c:\users\clau&florin\desktop\florinel\5martie 2019\src\segment.cpp
+	"Segment.h"
+	<cmath>
+
+1551810585 c:\users\clau&florin\desktop\florinel\5martie 2019\include\segment.h
+
+1551979554 source:c:\users\clau&florin\desktop\scoala it\5martie 2019\main.cpp
+	<iostream>
+	"Segment.h"
+
+1551810585 c:\users\clau&florin\desktop\scoala it\5martie 2019\include\segment.h
+
+1551811501 source:c:\users\clau&florin\desktop\scoala it\5martie 2019\src\segment.cpp
+	"Segment.h"
+	<cmath>
+
+1551982912 source:c:\users\clau&florin\desktop\scoala it\5martie 2019\src\triunghi.cpp
+	"Triunghi.h"
+
+1551982880 c:\users\clau&florin\desktop\scoala it\5martie 2019\include\triunghi.h
+	"Segment.h"
+
