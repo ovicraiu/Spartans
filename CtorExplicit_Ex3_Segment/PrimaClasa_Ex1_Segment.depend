@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1551904757 source:c:\perso\firma\scoala informala\proiecte\_capitolul07\primaclasa_ex1_segment\main.cpp
+	<iostream>
+	"Segment.h"
+	"Triunghi.h"
+
+1551905440 source:c:\perso\firma\scoala informala\proiecte\_capitolul07\primaclasa_ex1_segment\src\segment.cpp
+	"Segment.h"
+	<cmath>
+
+1551905440 c:\perso\firma\scoala informala\proiecte\_capitolul07\primaclasa_ex1_segment\include\segment.h
+
+1551905440 source:c:\perso\firma\scoala informala\proiecte\_capitolul07\primaclasa_ex1_segment\src\triunghi.cpp
+	"Triunghi.h"
+
+1551904588 c:\perso\firma\scoala informala\proiecte\_capitolul07\primaclasa_ex1_segment\include\triunghi.h
+	"Segment.h"
+
+1553720751 source:c:\perso\firma\scoala informala\proiecte\_capitolul08\ctorexplicit_ex3_segment\main.cpp
+	<iostream>
+	"Segment.h"
+	"Triunghi.h"
+
+1553501129 c:\perso\firma\scoala informala\proiecte\_capitolul08\ctorexplicit_ex3_segment\include\segment.h
+
+1553710044 c:\perso\firma\scoala informala\proiecte\_capitolul08\ctorexplicit_ex3_segment\include\triunghi.h
+	"Segment.h"
+
+1553501129 source:c:\perso\firma\scoala informala\proiecte\_capitolul08\ctorexplicit_ex3_segment\src\segment.cpp
+	"Segment.h"
+	<cmath>
+
+1553710044 source:c:\perso\firma\scoala informala\proiecte\_capitolul08\ctorexplicit_ex3_segment\src\triunghi.cpp
+	"Triunghi.h"
+
