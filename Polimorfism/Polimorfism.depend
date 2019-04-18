@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1554834906 source:c:\users\os\desktop\polimorfism\main.cpp
+	<iostream>
+	"Vioara.h"
+	"Pian.h"
+	"Flaut.h"
+	"VioaraElectrica.h"
+	"VioaraClasica.h"
+
+1554831743 source:c:\users\os\desktop\polimorfism\src\instrument.cpp
+	"Instrument.h"
+	<iostream>
+
+1554834089 c:\users\os\desktop\polimorfism\include\instrument.h
+
+1554834059 source:c:\users\os\desktop\polimorfism\src\vioara.cpp
+	"Vioara.h"
+	<iostream>
+
+1554834799 c:\users\os\desktop\polimorfism\include\vioara.h
+	<Instrument.h>
+
+1554832067 source:c:\users\os\desktop\polimorfism\src\flaut.cpp
+	"Flaut.h"
+	<iostream>
+
+1554832211 c:\users\os\desktop\polimorfism\include\flaut.h
+	<Instrument.h>
+
+1554832067 source:c:\users\os\desktop\polimorfism\src\pian.cpp
+	"Pian.h"
+	<iostream>
+
+1554832211 c:\users\os\desktop\polimorfism\include\pian.h
+	<Instrument.h>
+
+1554834492 source:c:\users\os\desktop\polimorfism\src\vioaraclasica.cpp
+	"VioaraClasica.h"
+	<iostream>
+
+1554834492 c:\users\os\desktop\polimorfism\include\vioaraclasica.h
+	<Vioara.h>
+
+1554834492 source:c:\users\os\desktop\polimorfism\src\vioaraelectrica.cpp
+	"VioaraElectrica.h"
+	<iostream>
+
+1554834492 c:\users\os\desktop\polimorfism\include\vioaraelectrica.h
+	<Vioara.h>
+
