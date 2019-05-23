@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1558556805 source:c:\users\sergiu\desktop\c++\class yt\src\ferma.cpp
+1558642738 source:c:\users\sergiu\desktop\c++\class yt\src\ferma.cpp
 	"Ferma.h"
 	<iostream>
 
-1558553511 c:\users\sergiu\desktop\c++\class yt\include\ferma.h
+1558643432 c:\users\sergiu\desktop\c++\class yt\include\ferma.h
 
-1558553511 source:c:\users\sergiu\desktop\c++\class yt\main.cpp
+1558637902 source:c:\users\sergiu\desktop\c++\class yt\main.cpp
 	"Ferma.h"
 	<iostream>
 

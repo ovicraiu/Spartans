@@ -6,18 +6,49 @@ class Ferma
 {
     public:
         Ferma();
-        void AdaugaAnimaleNoi();
-        void ReduNumarAnimale();
-        void AfiseazaPopulatieFerma();
-        void AdaugaHranaAnimale();
-        void AfiseazaSituatieFerma();
-        void patrupede();
-        void pasari();
+
+         AdaugaAnimaleNoi(int pasari, int patrupede);
+         ReduNumarAnimale(int pasari, int patrupede);
+         AfiseazaPopulatieFerma();
+         AdaugaHranaAnimale(int Fan, int Porum);
+         AfiseazaSituatieFerma();
+
+          int  patrupede(int porci, int oi, int bovine, int cai);
+                    void setPorci(int valoarePorci){
+                    valoarePorci = porci; }
+                    void setOi(int valoareOi){
+                    valoareOi = oi; }
+                    void setBovine(int valoareBovine){
+                    valoareBovine = bovine; }
+                    void setCai(int valoareCai){
+                    valoareCai = porci; }
+
+           int pasari(int gaste, int gaini, int rate, int curci);
+                    void setGaste(int valoareGaste){
+                    valoareGaste = gaste; }
+                    void setGaini(int valoareGaini){
+                    valoareGaini = gaini; }
+                    void setRate(int valoareRate){
+                    valoareRate = rate; }
+                    void setCurci(int valoareCurci){
+                    valoareCurci = curci; }
+
         virtual ~Ferma();
+
 
     protected:
 
     private:
+        int gaste;
+        int gaini;
+        int rate;
+        int curci;
+        int porci;
+        int oi;
+        int bovine;
+        int cai;
+        int Fan;
+        int Porum ;
 };
 
 #endif // FERMA_H

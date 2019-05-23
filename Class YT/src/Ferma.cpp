@@ -12,40 +12,27 @@ Ferma::~Ferma()
     //dtor
 }
 
-void Ferma::AdaugaAnimaleNoi(){
+ Ferma::AdaugaAnimaleNoi(int pasari, int patrupede){
 cout << "Selecteaza una dintre cele doua optiuni: 1 - Pasari; 2 - Patrupede" << endl;
-int AnimaleNoi;
-cin >> AnimaleNoi;
-if (AnimaleNoi = 1){
-    printf (" Selectati una dintre optiuni: \n 1 - Gaste \n 2 - Gaini \n 3 - Rate \n 4 - Curci "  );
-    int pasari;
-    int * pointsArray;
-    scanf( " %d " , &pasari);
-    pointsArray =  (int * ) malloc(pasari* sizeof (int));
-        };
-if (AnimaleNoi = 2){
-    printf (" Selectati una dintre optiuni: \n 1 - Porci \n 2 - Oi \n 3 - Bovine \n 4 - Cai "  );
-    int patrupede;
-    int * pointsArray;
-    scanf( " %d " , &patrupede);
-    pointsArray =  (int * ) malloc(patrupede* sizeof (int));
-        };
-        cin.get();
+Ferma ObPasari;
+//ObPasari.pasari(1, 2, 3, 4); - aici crapa....
+
+
 }
 
-void Ferma::ReduNumarAnimale(){
+ Ferma::ReduNumarAnimale(int pasari, int patrupede){
 cout << "Test Redu Numar Animale" << endl;
     }
 
-void Ferma::AfiseazaPopulatieFerma(){
+ Ferma::AfiseazaPopulatieFerma(){
 cout << "Test Afiseaza populatie ferma" << endl;
     }
 
-void Ferma::AdaugaHranaAnimale(){
+ Ferma::AdaugaHranaAnimale(int Fan, int Porum){
 cout << "Test Adauga Hrana Animale" << endl;
     }
 
-void Ferma::AfiseazaSituatieFerma(){
+ Ferma::AfiseazaSituatieFerma(){
 cout << "Test Afiseaza Situatie Ferma" << endl;
 
 }

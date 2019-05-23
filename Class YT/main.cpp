@@ -10,6 +10,7 @@ int main()
 {
 
     AfisareMeniu();
+
     return 0;
 }
 
@@ -23,44 +24,8 @@ char Meniu = -1;
      cout << " 5) Afiseaza situatie ferma \n " << endl;
      cout << " 0) Iesire " << endl;
      cin >> Meniu ;
-     ExecutareMeniu(Meniu);
+     //ExecutareMeniu(Meniu);
 };
 
 
-void ExecutareMeniu(char Meniu){
-    switch (Meniu){
 
-    case '0' :
-     //0 exit program
-    break;
-
-    case '1': {
-    Ferma animale;
-    animale.AdaugaAnimaleNoi();
-    }break;
-
-    case '2': {
-    Ferma redu;
-    redu.ReduNumarAnimale();
-    }break;
-
-    case '3':{
-    Ferma AfiseazaPopulatie;
-    AfiseazaPopulatie.AfiseazaPopulatieFerma();
-    }break;
-
-    case '4': {
-    Ferma AdaugaHrana;
-    AdaugaHrana.AdaugaHranaAnimale();
-    }break;
-
-    case '5': {
-    Ferma AfiseazaSituatie;
-    AfiseazaSituatie.AfiseazaSituatieFerma();
-    }break;
-
-        cout << "Introdu o valoare din mesajul afisat \n " << endl;
-        AfisareMeniu();
-
-    }
-};
