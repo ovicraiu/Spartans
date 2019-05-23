@@ -15,7 +15,7 @@ Ferma::~Ferma()
  Ferma::AdaugaAnimaleNoi(int pasari, int patrupede){
 cout << "Selecteaza una dintre cele doua optiuni: 1 - Pasari; 2 - Patrupede" << endl;
 Ferma ObPasari;
-//ObPasari.pasari(1, 2, 3, 4); - aici crapa....
+ObPasari.pasari(1, 2, 3, 4);
 
 
 }

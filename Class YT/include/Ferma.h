@@ -13,7 +13,7 @@ class Ferma
          AdaugaHranaAnimale(int Fan, int Porum);
          AfiseazaSituatieFerma();
 
-          int  patrupede(int porci, int oi, int bovine, int cai);
+          int  patrupede(int valoarePorci, int valoareOi, int valoareBovine, int valoareCai);
                     void setPorci(int valoarePorci){
                     valoarePorci = porci; }
                     void setOi(int valoareOi){
@@ -23,7 +23,7 @@ class Ferma
                     void setCai(int valoareCai){
                     valoareCai = porci; }
 
-           int pasari(int gaste, int gaini, int rate, int curci);
+           int pasari(int valoareGaste, int valoareGaini, int valoareRate, int valoareCurci);
                     void setGaste(int valoareGaste){
                     valoareGaste = gaste; }
                     void setGaini(int valoareGaini){
