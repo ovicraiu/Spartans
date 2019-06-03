@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1559585229 source:c:\users\sebi\desktop\bingo me\777\main.cpp
+	<fstream>
+	"Carton.h"
+	"CartonManager.h"
+
+1559579975 c:\users\sebi\desktop\bingo me\777\include\carton.h
+	<iostream>
+	<vector>
+	<time.h>
+	<stdlib.h>
+	<cmath>
+	<algorithm>
+
+1559579949 source:c:\users\sebi\desktop\bingo me\777\src\carton.cpp
+	"Carton.h"
+
+1559579546 c:\users\sebi\desktop\bingo me\777\include\cartonmanager.h
+	"Carton.h"
+	<iostream>
+
+1559580193 source:c:\users\sebi\desktop\bingo me\777\src\cartonmanager.cpp
+	"CartonManager.h"
+	"Carton.h"
+	<fstream>
+
